@@ -3,9 +3,14 @@
 int main()
 {
     int A, B;
-    printf("Enter FIRST numbers: ");
+
+    printf("Enter FIRST number: ");
     scanf("%d", &A);
-    printf("Enter SECOND numbers: ");
+
+    printf("Enter SECOND number: ");
     scanf("%d", &B);
+
     printf("Result: %d", A + B);
+
+    return 0;
 }

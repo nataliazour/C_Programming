@@ -2,7 +2,6 @@
 
 int main()
 {
-
     int A;
 
     printf("Enter a number: ");
@@ -29,4 +28,6 @@ int main()
     {
         printf("The number is equal to zero");
     }
+
+    return 0;
 }
